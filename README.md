@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **karuta0825/karuta0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,clojure,python,java,c,react,aws,github)](https://skillicons.dev)
+
+### Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karuta0825&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karuta0825)](https://github.com/ryo-ma/github-profile-trophy)
