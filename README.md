@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Skills
+## My Skills
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,clojure,python,java,c,react,aws,github)](https://skillicons.dev)
 
-### Status
+## Status
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karuta0825&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karuta0825)](https://github.com/ryo-ma/github-profile-trophy)
