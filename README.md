@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,clojure,python,java,c,react,aws,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,emacs,nodejs,clojure,python,java,c,react,aws,github)](https://skillicons.dev)
 
 ## Status
 
